@@ -26,3 +26,7 @@ function showMenu() {
 function closeMenu() {
     navMenu.style.display = "none";
 }
+
+
+// send email
+
